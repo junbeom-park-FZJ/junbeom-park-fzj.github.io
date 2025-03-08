@@ -260,7 +260,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
-sscholar:
+scholar:
   last_name: [Park]
   first_name: [Junbeom]
 
