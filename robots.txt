@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://junbeom-park-fzj.github.io///sitemap.xml
+Sitemap: https://junbeom-park-FZJ.github.io///sitemap.xml
