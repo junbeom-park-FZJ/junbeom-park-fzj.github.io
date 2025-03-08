@@ -2,96 +2,135 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
+      value: Dr. Junbeom Park
+    - name: Background
+      value: Chemical Engineering, Material Science
+    - name: Research Interest and Expertise
+      value: in-situ TEM, Carbon nanotube, EM data processing
+    - name: Position
+      value: Staff Scientist at in-situ Electron Microscopy (iEM) group
+    - name: Current Affiliation
+      value: Forschungszentrum Jülich (FZJ), Institute of Energy Technologies - Fundamental Electrochemistry (IET-1)
+    - name: Google scholar link
+      value: https://scholar.google.com/citations?user=WXKca60AAAAJ&hl=en
+    - name: ORCID link
+      value: https://orcid.org/0000-0003-2548-2985
+      
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MS-Ph.D. Integrated program, Chemical Engineering
+      institution: Pohang University of Science and Technology (POSTECH)
+      location: Pohang, South Korea
+      year: 2012.03-2017.08
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Thesis on Structural Analysis of Carbon Nanotube Yarn 
+        - Supervised by Prof. Kun-Hong Lee 
+        
+    - title: Bachelor, Chemical Engineering
+      institution: Pohang University of Science and Technology (POSTECH)
+      location: Pohang, South Korea
+      year: 2008.03-2012.02
 
-- title: Experience
+- title: Work Experiences
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Staff scientist
+      institution: Forschungszentrum Jülich (FZJ), Institute of Energy Technologies - Fundamental Electrochemistry (IET-1)
+      location: Jülich, Germany 
+      year: 2024.06-Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Machine Learning-based analysis of electron microscopy data
+        - Python based data processing, in-situ TEM, FIB/SEM 
+        - Supervised by Dr. Shibabrata Basak
+
+    - title: Postdoctoral researcher
+      institution: Forschungszentrum Jülich (FZJ), Institute of Energy and Climate - Fundamental Electrochemistry (IEK-9)
+      location: Jülich, Germany 
+      year: 2020.03-2024.05
       description:
-        - Description 1.
-        - Description 2.
+        - Investigation of electrochemical mechanisms via in-situ TEM
+        - in-situ TEM, TEM, FIB/SEM
+        - Supervised by Dr. Shibabrata Basak
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Postdoctoral researcher
+      institution: Korea Institute of Science and Technology (KIST), Carbon Composite Materials Research Center
+      location: Wanju, South Korea
+      year: 2018.03-2020.02
       description:
+        - Growth mechanism study of carbon nanotube through via in-situ TEM
+        - TEM, in-situ TEM, FIB/SEM, Tensile testing
+        - Supervised by Dr. Seung Min Kim
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Researcher
+      institution: Korea Institute of Science and Technology (KIST), Carbon Composite Materials Research Center
+      location: Wanju, South Korea
+      year: 2017.02-2020.02
+      description:
+        - Synthesis and mechanical behavior study of carbon nanotube fiber
+        - Process engineering, Tensile testing, FIB/SEM, TEM
+        - Supervised by Dr. Seung Min Kim
 
-- title: Open Source Projects
+    - title: Student researcher
+      institution: Korea Institute of Science and Technology (KIST), Carbon Composite Materials Research Center
+      location: Wanju, South Korea
+      year: 2014.07-2016.12
+      description:
+        - Synthesis and mechanical behavior study of carbon nanotube fiber
+        - Process engineering, Tensile testing, Raman, SEM
+        - Supervised by Dr. Seung Min Kim
+
+- title: Professional Experiences
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Chair of Materials Division
+      year: 2024.05-Present
+      description: The Korean Scienists and Engineers Association in the FRG (VeKNI), Bochum, Germany
 
-- title: Honors and Awards
-  type: time_table
+    - title: Session chair on [CM1] Advanced Characterization Techniques on Material Science 
+      year: 2024.08
+      description: Europe-Korea Conference 2024 (EKC2024), Coventry, United Kingdom
+
+- title: Skill Experiences
+  type: map
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - name: TEM
+      value: High resolution imaging, Electron diffraction, Aberration correction, 4D STEM, EDS and EELS
+    - name: in-situ TEM
+      value: MEMS chip-based experiments:Heating, Biasing, Gas-Heating, Liquid-Biasing and Indentation
+    - name: Data processing
+      value: Python based image processing (segmentation, edge detection), 4D STEM data analysis
+    - name: FIB/SEM
+      value: Cross-section imaging, TEM lamella prep., Lamella designing, Lamella transfer to MEMS chip
+    - name: Process engineering
+      value: Furnace, Gas flowing system, Sputter, Glove box, Plasma cleaner, cross-section polisher 
+    - name: Raman spectroscopy
+      value: Crystallinity qualification, Nanotube’s diameter calculation, Alignment state determination
+    - name: Tensile testing
+      value: Tensile strength measurement, Linear density measurement, Internal structure determination
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Selected Publications
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <a href='https://doi.org/10.1002/smtd.202400081'>Toward Quantitative Electrodeposition via In Situ Liquid Phase Transmission Electron Microscopy:Studying Electroplated Zinc Using Basic Image Processing and 4D STEM</a><br>
+      Junbeom Park, Sarmila Dutta, Hongyu Sun, et al. | Small Methods (2024) 2400081, DOI:10.1002/smtd.202400081
+    - <a href='https://doi.org/10.1002/adem.202302146'>Titanium nitride microelectrode:a new candidate for in-situ electrochemical transmission electron microscopy study</a><br>
+      Junbeom Park#, Ningyan Cheng#, Binghui Ge, et al. | Advanced Engineering Materials (2024) 36, 2302146, DOI:10.1002/adem.202302146
+    - <a href='http://dx.doi.org/10.1021/acsami.1c13541'>Structural Study of Polyacrylonitrile-Based Carbon Nanofibers for Understanding Gas Adsorption</a><br>
+      Junbeom Park, Ansgar Kretzschmar, Victor Selmert, et al. | ACS Applied Materials & Interfaces (2021) 13, 46665 DOI:10.1021/acsami.1c13541
+    - <a href='http://dx.doi.org/10.1016/j.carbon.2020.10.068'>Improving mechanical and physical properties of ultra-thick carbon nanotube fiber by fast swelling and stretching process</a><br>
+      Dong-Myeong Lee#, Junbeom Park#, Jaegeun Lee, et al. | Carbon (2021) 172, 733 DOI:10.1016/j.carbon.2020.10.068
+    - <a href='https://doi.org/10.1016/j.carbon.2019.05.077'>Mathematical model for the dynamic behavior of carbon nanotube yarn in analogy with hierarchically structured bio-materials</a><br>
+      Junbeom Park, Jaegeun Lee, Dong-Myeong Lee, et al. | Carbon (2019) 152, 151 DOI:10.1016/j.carbon.2019.05.077
+
+- title: References
+  type: map
+  contents:
+    - name: <a href='mailto:s.basak@fz-juelich.de'><b>Dr. Shibabrata Basak</b></a>
+      value: Forschungszentrum Jülich (FZJ), Institute of Energy Technologies - Fundamental Electrochemistry (IET-1)
+    - name: <a href='mailto:seungmin.kim@kist.re.kr'><b>Dr. Seung Min Kim</b></a>
+      value: Korea Institute of Science and Technology (KIST), Carbon Composite Materials Research Center
+    - name: <a href='mailto:ce20047@postech.ac.kr'><b>Prof. Kun-Hong Lee</b></a>
+      value: Pohang University of Science and Technology (POSTECH), Department of Chemical Engineering
+    - name: <a href='mailto:jglee@pusan.ac.kr'><b>Prof. Jaegeun Lee</b></a>
+      value: Pusan National University (PNU), Department of Organic Material Science and Engineering
