@@ -1,0 +1,218 @@
+
+- id: 2024_park_a
+  title: Development of simple image processing for in-situ TEM toward live processing
+  author:
+    - name: Junbeom Park
+    - name: Hongyu Sun
+    - name: Janghyun Jo
+    - name: Eva Jodat
+    - name: André Karl
+    - name: Shibabrata Basak
+    - name: Rüdigar-A. Eichel
+  location: European Microscopy Congress 2024 (EMC2024)
+  city: Copenhagen, Denmark
+  year: 2024
+
+- id: 2024_park_
+  title: Data processing of in-situ TEM toward live processing
+  author:
+    - name: Junbeom Park
+    - name: Hongyu Sun
+    - name: Janghyun Jo
+    - name: Eva Jodat
+    - name: André Karl
+    - name: Shibabrata Basak
+    - name: Rüdigar-A. Eichel
+  location: PICO2024
+  city: Vaals, Netherlands
+  year: 2024
+
+- id: 2023_park_
+  title: Improving the knowledge from in-situ Liquid Phase TEM via image processing
+  author:
+    - name: Junbeom Park
+    - name: Hongyu Sun
+    - name: Janghyun Jo
+    - name: Shibabrata Basak
+    - name: Rüdigar-A. Eichel
+  location: The 20th International Microscopy Congress (IMC20)
+  city: Busan, Korea
+  year: 2023
+
+- id: 2022_park_
+  title: Understanding gas adsorption of PAN-based carbon nanofibers
+  author:
+    - name: Junbeom Park
+    - name: Ansgar Kretzschmar
+    - name: Victor Selmert
+    - name: Osmane Camara
+    - name: Hans Kungl
+    - name: Hermann Tempel
+    - name: Shibabrata Basak
+    - name: Rüdigar-A. Eichel
+  location: PICO 2022
+  city: Vaals, Netherlands
+  year: 2022
+
+
+- id: 2019_park_
+  title: Mathematical model for dynamic mechanical behavior of carbon nanotube yarns in analogy with hierarchically structured bio-materials
+  author:
+    - name: Junbeom Park
+    - name: Jaegeun Lee
+    - name: Dong-Myeong Lee
+    - name: Sung-Hyun Lee
+    - name: Hyeon Su Jeong
+    - name: Kun-Hong Lee
+    - name: Seung Min Kim
+  location: 2019 spring meeting of the Korean Carbon Society
+  city: Daegu, Korea
+  year: 2019
+
+- id: 2018_park_a
+  title: The effect of weak oxidant on the synthesis of carbon nanotube fiber
+  author:
+    - name: Junbeom Park
+    - name: Hanbin Park
+    - name: Sung-Hyun Lee
+    - name: Seung Min Kim
+  location: 2018 spring meeting of the Korean Carbon Society
+  city: Gwangju, Korea
+  year: 2018
+
+- id: 2018_park_
+  title: Effect of Water on Synthesis of Carbon Nanotube by Floating Catalyst Method
+  author:
+    - name: Junbeom Park
+    - name: Hanbin Park
+    - name: Jaegeun Lee
+    - name: Dong-Myeong Lee
+    - name: Seung Min Kim
+  location: The 23rd Nanotube research group
+  city: Muju, Korea
+  year: 2018
+
+- id: 2017_park_a
+  title: The effect of spinning rate during the fabrication of carbon nanotube fibers
+  author:
+    - name: Junbeom Park
+    - name: Jaegeun Lee
+    - name: Hanbin Park
+    - name: Dong-Myeong Lee
+    - name: Kun-Hong Lee
+    - name: Seung Min Kim
+  location: 2017 spring meeting of the Korean Carbon Society
+  city: Changwon, Korea
+  year: 2017
+
+- id: 2017_park_
+  title: Characterization of carbon nanotube fibers from the hierarchical viewpoint
+  author:
+    - name: Junbeom Park
+    - name: Jaegeun Lee
+    - name: Dong-Myeong Lee
+    - name: Hanbin Park
+    - name: Kun-Hong Lee
+    - name: Seung Min Kim
+  location: 2017 spring meeting of KIChE
+  city: Jeju, Korea
+  year: 2017
+
+- id: 2015_park_a
+  title: The effect of carrier gas flow rate on properties of carbon nanotube fibers
+  author:
+    - name: Junbeom Park
+    - name: Sung-Hyun Lee
+    - name: Seung Min Kim
+    - name: Kun-Hong Lee
+  location: China NANO 2015
+  city: Bejing, China
+  year: 2015
+
+- id: 2015_park_
+  title: The effect of carrier gas flow rate on the synthesis of CNT fibers by direct spinning method
+  author:
+    - name: Junbeom Park
+    - name: Sung-Hyun Lee
+    - name: Jinseok Kim
+    - name: Seung Min Kim
+    - name: Kun-Hong Lee
+  location: 2015 spring meeting of the Korean Carbon Society
+  city: Gumi, Korea
+  year: 2015
+
+- id: 2014_park_a
+  title: The effect of sulfur and IR heating on the carbon nanotube (CNT) fibers
+  author:
+    - name: Junbeom Park
+    - name: Sung-Hyun Lee
+    - name: Jinseok Kim
+    - name: Seojeong Jeong
+    - name: Seung Min Kim
+    - name: Kun-Hong Lee
+  location: 2014 fall meeting of the Korean Carbon Society
+  city: Jeonju, Korea
+  year: 2014
+
+- id: 2014_park_
+  title: The effect of thiophene concentration during synthesizing the carbon nanotube (CNT) fibers
+  author:
+    - name: Junbeom Park
+    - name: Sung-Hyun Lee
+    - name: Seojeong Jeong
+    - name: Jinseok Kim
+    - name: Seung Min Kim
+    - name: Kun-Hong Lee
+  location: 2014 Fall meeting of KIChE
+  city: Daejeon, Korea
+  year: 2014
+
+- id: 2013_park_d
+  title: Surface analysis of carbon nanotube (CNT) yarns after acid treatment
+  author:
+    - name: Junbeom Park
+    - name: Sung-Hyun Lee
+    - name: Kun-Hong Lee
+  location: 2013 fall meeting of the Korean Carbon Society
+  city: Jeonju, Korea
+  year: 2013
+
+- id: 2013_park_c
+  title: Acid treatment on synthesized carbon nanotube yarns from methane
+  author:
+    - name: Junbeom Park
+    - name: Sung-Hyun Lee
+    - name: Kun-Hong Lee
+  location: 2013 Fall meeting of KIChE
+  city: Daegu, Korea
+  year: 2013
+
+- id: 2013_park_b
+  title: Dipping carbon nanotube (CNT) yarns in various acids for chemical treatment
+  author:
+    - name: Junbeom Park
+    - name: Sung-Hyun Lee
+    - name: Kun-Hong Lee
+  location: 2013 Spring meeting of the Korean Carbon Society
+  city: Seoul, Korea
+  year: 2013
+
+- id: 2013_park_a
+  title: Changes of carbon nanotube (CNT) yarns surface after acid treatment
+  author:
+    - name: Junbeom Park
+    - name: Sung-Hyun Lee
+    - name: Kun-Hong Lee
+  location: 2013 Spring conference of the Korean Fiber Society
+  city: Daegu, Korea
+  year: 2013
+
+- id: 2013_park_
+  title: Purification of carbon nanotube (CNT) fibers with acid treatment
+  author:
+    - name: Junbeom Park
+    - name: Sung-Hyun Lee
+    - name: Kun-Hong Lee
+  location: 2013 KIChE winter season workshop
+  city: Muju, Korea
+  year: 2013

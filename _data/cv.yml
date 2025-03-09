@@ -5,16 +5,16 @@
       value: Dr. Junbeom Park
     - name: Background
       value: Chemical Engineering, Material Science
-    - name: Research Interest and Expertise
-      value: in-situ TEM, Carbon nanotube, EM data processing
-    - name: Position
+    - name: Research expertise
+      value: In-situ TEM, Carbon nanotube, EM data processing
+    - name: Job position
       value: Staff Scientist at in-situ Electron Microscopy (iEM) group
-    - name: Current Affiliation
-      value: Forschungszentrum Jülich (FZJ), Institute of Energy Technologies - Fundamental Electrochemistry (IET-1)
-    - name: Google scholar link
-      value: https://scholar.google.com/citations?user=WXKca60AAAAJ&hl=en
-    - name: ORCID link
-      value: https://orcid.org/0000-0003-2548-2985
+    - name: Current affiliation
+      value: Forschungszentrum Jülich (FZJ), <br> Institute of Energy Technologies - Fundamental Electrochemistry (IET-1)
+    - name: Webpage links
+      value: <a href='https://scholar.google.com/citations?user=WXKca60AAAAJ&hl=en'>Google scholar</a>,
+             <a href='https://orcid.org/0000-0003-2548-2985'>ORCID</a>,
+             <a href='https://www.fz-juelich.de/en/iet/iet-1/our-research/focus-topics/microscopy/i-em'>iEM group</a>
       
 - title: Education
   type: time_table
@@ -24,7 +24,7 @@
       location: Pohang, South Korea
       year: 2012.03-2017.08
       description:
-        - Thesis on Structural Analysis of Carbon Nanotube Yarn 
+        - Thesis title:Structural Analysis of Carbon Nanotube Yarn 
         - Supervised by Prof. Kun-Hong Lee 
         
     - title: Bachelor, Chemical Engineering

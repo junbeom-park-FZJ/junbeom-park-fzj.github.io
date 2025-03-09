@@ -1,0 +1,58 @@
+
+- id: 2024_park_
+  title: Utilizing Data Processing for Enhanced Material Characterization
+  author:
+    - name: Junbeom Park
+  location: VeKNI (The Korean Scientists and Engineers Association in Germany) 2024 conference
+  city: Essen, Germany
+  year: 2024
+
+- id: 2023_park_
+  title: In-situ Transmission Electron Microscopy and Image Processing
+  author:
+    - name: Junbeom Park
+    - name: Hongyu Sun
+    - name: Janghyun Jo
+    - name: Shibabrata Basak
+    - name: Rüdigar-A. Eichel
+  location: Europe-Korea Conference on Science and Technology 2023 (EKC2023)
+  city: Munich, Germany
+  year: 2023
+
+- id: 2022_park_
+  title: FIB-based lamella preparation for in-situ TEM gas experiment
+  author:
+    - name: Junbeom Park
+    - name: Osmane Camara
+    - name: Hermann Tempel
+    - name: Hans Kungl
+    - name: Shibabrata Basak
+    - name: Rüdigar-A. Eichel
+  location: 16th Multinational Congress on Microscopy
+  city: Brno, Czech Republic
+  year: 2022
+
+- id: 2018_park_
+  title: Theoretical model for structure determination of hierarchically structured carbon nanotube yarn
+  author:
+    - name: Junbeom Park
+    - name: Jaegeun Lee
+    - name: Sung-Hyun Lee
+    - name: Kun-Hong Lee
+    - name: Seung Min Kim
+  location: Carbon 2018 World Conference
+  city: Madrid, Spain
+  year: 2018
+
+- id: 2016_park_
+  title: Proper linear density measurement method of hierarchical structural carbon nanotube fibers by vibroscope
+  author:
+    - name: Junbeom Park
+    - name: Sung-Hyun Lee
+    - name: Jaegeun Lee
+    - name: Dong-Myeong Lee
+    - name: Seung Min Kim
+    - name: Kun-Hong Lee
+  location: 2016 spring meeting of the Korean Carbon Society
+  city: Gumi, Korea
+  year: 2016

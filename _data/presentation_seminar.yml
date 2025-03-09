@@ -1,0 +1,53 @@
+- id: 2024_park_b
+  type: Seminar
+  title: Strength measurement of Material
+  author:
+    - name: Junbeom Park
+  location: VeKNI (The Korean Scientists and Engineers Association in Germany) Material division Workshop
+  city: Aachen, Germany
+  year: 2024
+
+- id: 2024_park_a
+  type: Seminar
+  title: Toward Live processing on in-situ TEM
+  author:
+    - name: Junbeom Park
+  location: VeKNI (The Korean Scientists and Engineers Association in Germany) Region 5 Workshop
+  city: Aachen, Germany
+  year: 2024
+
+- id: 2024_park_
+  type: Lecture
+  title: Semiconductor analysis equipment (Ch.x Advanced STEM, Ch.x in-situ TEM)
+  author:
+    - name: Junbeom Park
+  location: Semiconductor Process and Equipment Contract department, Pusan National University (PNU)
+  city: Busan, Korea
+  year: 2024
+
+- id: 2023_park_a
+  type: Seminar
+  title: The impact of data processing on material research
+  author:
+    - name: Junbeom Park
+  location: Institute of Advanced Composite Materials, Korea Institute of Science and Technology (KIST) Jeonbuk
+  city: Wanju, Korea
+  year: 2023
+
+- id: 2023_park_
+  type: Seminar
+  title: In-situ transmission electron microscopy
+  author:
+    - name: Junbeom Park
+  location: VeKNI (The Korean Scientists and Engineers Association in Germany) Region 5 Workshop
+  city: Aachen, Germany
+  year: 2023
+
+- id: 2017_park_
+  type: Seminar
+  title: Accurate measurement of linear density via Favimat+
+  author:
+    - name: Junbeom Park
+  location: Institute of Advanced Composite Materials, Korea Institute of Science and Technology (KIST) Jeonbuk
+  city: Wanju, Korea
+  year: 2017

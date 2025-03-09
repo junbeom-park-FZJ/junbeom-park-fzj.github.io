@@ -184,7 +184,17 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
+  - _pages/blog.md
+  - _books/
+  - _pages/books.md
+  - _pages/dropdown.md
+  - _pages/news.md
+  - _news/
+  - _pages/repositories.md
+  - _pages/profiles.md
+  - _pages/projects.md
+  - _projects/
+  - _pages/teaching.md
   - purgecss.config.js
   - README.md
   - readme_preview/
