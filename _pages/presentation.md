@@ -12,7 +12,7 @@ nav_order: 3
 ## A. Seminars and Lectures
 
 <ol>
-{% for paper in site.data.Presentation_seminar %}
+{% for paper in site._data.presentation_seminar %}
   <li>
     ({{paper.type}})  <b>{{ paper.title }}</b> <br>
 
@@ -31,7 +31,7 @@ nav_order: 3
 
 ## B. Oral presentations at conferences
 <ol>
-{% for paper in site.data.Presentation_oral %}
+{% for paper in site._data.presentation_oral %}
   <li>
     <b>{{ paper.title }}</b> <br>
 
@@ -51,7 +51,7 @@ nav_order: 3
 ## C. Poster presentations at conferences
 
 <ol>
-{% for paper in site.data.Presentation_poster %}
+{% for paper in site._data.presentation_poster %}
   <li>
     <b>{{ paper.title }}</b> <br>
 
